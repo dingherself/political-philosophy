@@ -33,22 +33,16 @@ date: 2026-01-17
             var aa = "{{ site.ta1_netid }}";
             var t = " ";
             var s = "@";
-            document.write("<p><strong>{{ site.ta1_title }}:</strong>: {{ site.ta1_name | smartify }}<br /><strong>Email</strong>:" + t + "<a href='" + "mail" + "to:" + aa + s + oo + c + g + "'>" + aa + s + oo + c + g + "</a><br /><strong>Office</strong>: {{ site.ta1_office }}<br /><strong>Office hours</strong>: {{ site.ta1_office_hours }}<br />" + "</p>");
+            document.write("<p><strong>{{ site.ta1_title }}</strong>: {{ site.ta1_name | smartify }}<br /><strong>Email</strong>:" + t + "<a href='" + "mail" + "to:" + aa + s + oo + c + g + "'>" + aa + s + oo + c + g + "</a><br /><strong>Office</strong>: {{ site.ta1_office }}<br /><strong>Office hours</strong>: {{ site.ta1_office_hours }}<br />" + "</p>");
       </script>
       <noscript><p><strong>{{ site.ta1_title }}</strong>: {{ site.ta1_name | smartify }}<br /><strong>Email</strong>:[you must enable JavaScript in your web browser to view the email address]<br /><strong>Office</strong>: {{ site.ta1_office }}<br /><strong>Office hours</strong>: {{ site.ta1_office_hours }}<br /></p></noscript>
       </div>
 
       <div class="col-12">
-      <script language="JavaScript" type="text/javascript">
-            var g = "edu";
-            var o = "barnard";
-            var c = ".";
-            var aaa = "{{ site.ta2_netid }}";
-            var t = " ";
-            var s = "@";
-            document.write("<p><strong>{{ site.ta2_title }}</strong>: {{ site.ta2_name | smartify }}<br /><strong>Email</strong>:" + t + "<a href='" + "mail" + "to:" + aaa + s + o + c + g + "'>" + aaa + s + o + c + g + "</a><br />" + "</p>");
-      </script>
-      <noscript><p><strong>{{ site.ta2_title }}</strong>: {{ site.ta2_name | smartify }}<br /><strong>Email</strong>:[you must enable JavaScript in your web browser to view the email address]<br /></p></noscript>
+      <p>
+        <strong>Undergraduate Writing Fellows</strong>:
+        {% include writing-fellows.html %}
+      </p>
       </div>
 </div>
 
