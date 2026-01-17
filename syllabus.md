@@ -103,7 +103,7 @@ For this class, I will use in-class activities (which will be graded for complet
 
 For at least four weeks this semester, you will write a short (600–800 words) paper responding to that week’s readings. The aim of a response paper is to critically examine—rather than merely summarize—a claim or argument raised in the readings. Focus on something that you find interesting but puzzling, raise an interpretive and/or evaluative question, and try to work out an answer.
 
-You may choose any four weeks to write response papers for, as long as you do at least one in each half of the semester. You may also write more than four response papers, in which case only your best four will count toward your final grade.
+You may choose any four weeks to write response papers for, as long as you do at least one before and after the spring break. You may also write more than four response papers, in which case only your best four will count toward your final grade.
 
 Response papers are due to CourseWorks > Assignments **by midnight on Sundays**. They will make up 40% of your final grade.
 
