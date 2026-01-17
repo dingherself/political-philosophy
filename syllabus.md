@@ -109,7 +109,7 @@ Response papers are due to CourseWorks > Assignments **by midnight on Sundays**.
 
 ### Scaffolded Term Paper
 
-You will be asked to conceive, draft, and revise a term paper. We are lucky to have Barnard’s undergraduate Writing Fellows attached to our class. Your assigned Writing Fellow will ask questions to clarify, explain, expand, and explore your writing, then conference with you about next steps for revision.
+You will be asked to conceive, draft, and revise a term paper. We are lucky to have Barnard’s undergraduate Writing Fellows attached to our class. Your assigned Writing Fellow will ask questions to clarify, explain, expand, and explore your writing, and then conference with you about next steps for revision.
 
 At least three conferences with your Writing Fellow are a required part of this course and factor into your grade:
 
