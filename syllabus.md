@@ -119,7 +119,7 @@ At least three conferences with your Writing Fellow are a required part of this 
 
 Your Writing Fellow will explain when these meetings will take place and how you can sign up. If you miss the deadline to submit your paper to the Writing Fellow, are running late to your conference, or are unable to attend your scheduled conference, please contact your Writing Fellow immediately.
 
-If you need additional individual support, you can make additional appointments with the Writing Fellow Program on [their website](https://barnard.mywconline.com/schedule/). 
+If you would like additional individual support, you can make additional appointments with the Writing Fellow Program on [their website](https://barnard.mywconline.com/schedule/). 
 
 The term paper assignment as a whole will account for 50% of your final grade.
 
