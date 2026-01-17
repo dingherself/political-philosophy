@@ -4,18 +4,20 @@ title: Course Policies
 navtitle: Course Policies
 group: syllabus
 order: 10
-date: 2025-11-25
+date: 2026-01-16
 ---
 
 <h2 class="mt-2">Excused Absences</h2>
 
-Please email me if there is a reason you can’t come to class, but you *don’t* need to show me any kind of documentation. This is an honor system, and I trust you not to abuse it—all I ask is you also be flexible and considerate when you are in a position of power to do so.
+If there is a reason you can’t come to class, please [fill out this form](https://forms.gle/opf12mhVQ21oUA7A9) to record an excused absence. You *don’t* need to show us any kind of documentation. This is an honor system, and we trust you not to abuse it—all we ask is you also be flexible and considerate when you are in a position of power to do so.
+
+If there is something you’d like us to know, please also email me and our TA to make sure that we see it.
 
 ## Late Assignments, Extensions, and Make-Ups
 
-No late assignments will be accepted, but an extension will ordinarily be granted as long as you (1) have a clear plan for completing the assignment and (2) let me know your plan by email **no later than 6 hours before the deadline** (unless the delay is justified). Likewise, there is no need to show me any kind of documentation.
+No late assignments will be accepted, but an extension will ordinarily be granted as long as you (1) have a clear plan for completing the assignment and (2) let me know your plan by email **no later than 6 hours before the deadline** (unless the delay is justified). Likewise, there is no need to show us any kind of documentation.
 
-As an instructor, I always appreciate students asking for extensions ahead of time when possible. Make-ups for missed assignments after the fact are generally disfavored, and will be granted only to accommodate emergencies and other unexpected circumstances, such as health (including mental health), child care, and family emergencies. We can always work something out, but it’s important that you contact me as soon as you can.
+We always appreciate students asking for extensions ahead of time when possible. Make-ups for missed assignments after the fact are generally disfavored, and will be granted only to accommodate emergencies and other unexpected circumstances, such as health (including mental health), child care, and family emergencies. We can always work something out, but it’s important that you contact me as soon as you can.
 
 ## Academic Integrity
 
