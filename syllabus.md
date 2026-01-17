@@ -4,7 +4,7 @@ title: Syllabus
 navtitle: Syllabus
 group: syllabus
 order: 5
-date: 2026-01-16
+date: 2026-01-17
 ---
 
 <h2 class="mt-0" style="position:absolute; visibility: hidden;">Course Information</h2>
@@ -105,7 +105,7 @@ For at least four weeks this semester, you will write a short (600–800 words) 
 
 You may choose any four weeks to write response papers for, as long as you do at least one before and at least one after the spring break. You may also write more than four response papers, in which case only your best four will count toward your final grade.
 
-Response papers are due to CourseWorks > Assignments **by midnight on Sundays**. They will make up 40% of your final grade.
+Response papers are due to CourseWorks > Assignments **by midnight on Sunday at the start of the week for which the readings are assigned**. They will make up 40% of your final grade.
 
 ### Scaffolded Term Paper
 
