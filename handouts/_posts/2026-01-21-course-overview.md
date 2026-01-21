@@ -11,7 +11,7 @@ module: "Introduction"
   - Please form small groups of 3–4, introduce yourselves, and exchange contact info
   - Course website: <https://pol.dingherself.com>
 - Course overview: Political philosophy between the past and the future
-- Somr advice for how to approach this class
+- Some advice for how to approach this class
 - Course logistics
 - Questions? & Plans for next week
 
@@ -57,7 +57,7 @@ Philosophy is an *activity* we do, not specific facts to be memorized.
 - For me, a philosophy classroom is not where students come to passively learn about different philosophies (though we will of course do a lot of learning!).
 - It’s where we come to *do philosophy together*—think of us as a book club!
 
-# Some advice for how to approach a philosophy class
+## Some advice for how to approach a philosophy class
 
 - Read the assigned texts carefully and critically before class (see also the participation section of our syllabus for advice).
 - Come to class with questions or just things you want to discuss from the readings!
