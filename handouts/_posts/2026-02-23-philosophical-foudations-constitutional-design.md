@@ -46,11 +46,11 @@ Two interpretations:
 
 ### Woodhull’s congressional districts
 
-![../assets/woodhull-congressional-districts-small](woodhull-congressional-districts-small.png)
+![../assets/woodhull-congressional-districts-small](../assets/woodhull-congressional-districts-small.png)
 
 ## Sun Yet-Sen’s constitution: Four powers of the people + five branches of government
 
-![../assets/five-powers-constitution](five-powers-constitution.jpg)
+![../assets/five-powers-constitution](../assets/five-powers-constitution.jpg)
 {: .mb-5}
 
 \* “Censor” (監察) is probably better rendered as “audit,” “inspect,” or “supervision.”
