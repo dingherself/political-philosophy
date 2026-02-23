@@ -23,6 +23,7 @@ The best papers will
 .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-c3ow{background-color:#f9f9f9;border-color:inherit;text-align:center;vertical-align:middle}
 .tg .tg-btxf{background-color:#f9f9f9;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-btfx{background-color:#fff;border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg"><thead>
  <tr>
@@ -33,22 +34,22 @@ The best papers will
  </tr></thead>
 <tbody>
  <tr>
- <td class="tg-btxf"><span style="font-style:italic">Project proposal</span></td>
- <td class="tg-btxf">Prior to submission</td>
- <td class="tg-btxf">Single-spaced, 1 page </td>
- <td class="tg-btxf">Friday, March 13, by midnight, to CourseWorks</td>
+ <td class="tg-btfx"><span style="font-style:italic">Project proposal</span></td>
+ <td class="tg-btfx">Prior to submission</td>
+ <td class="tg-btfx">Single-spaced, 1 page </td>
+ <td class="tg-btfx">Friday, March 13, by midnight, to CourseWorks</td>
  </tr>
  <tr>
- <td class="tg-btxf"><span style="font-style:italic">1st draft</span></td>
- <td class="tg-btxf">Post submission</td>
- <td class="tg-btxf">Double-spaced, could include bullet points/placeholders</td>
- <td class="tg-btxf">Friday, April 3, by midnight, to CourseWorks</td>
+ <td class="tg-btfx"><span style="font-style:italic">1st draft</span></td>
+ <td class="tg-btfx">Post submission</td>
+ <td class="tg-btfx">Double-spaced, could include bullet points/placeholders</td>
+ <td class="tg-btfx">Friday, April 3, by midnight, to CourseWorks</td>
  </tr>
  <tr>
- <td class="tg-btxf"><span style="font-style:italic">2nd draft</span></td>
- <td class="tg-btxf">Post submission</td>
- <td class="tg-btxf">Double-spaced, 9–12 pages</td>
- <td class="tg-btxf">Friday, April 17, by midnight, to CourseWorks</td>
+ <td class="tg-btfx"><span style="font-style:italic">2nd draft</span></td>
+ <td class="tg-btfx">Post submission</td>
+ <td class="tg-btfx">Double-spaced, 9–12 pages</td>
+ <td class="tg-btfx">Friday, April 17, by midnight, to CourseWorks</td>
  </tr>
  <tr>
  <td class="tg-btxf"><span style="font-style:italic">Final draft</span></td>
