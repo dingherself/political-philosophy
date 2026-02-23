@@ -20,44 +20,40 @@ The best papers will
 .tg {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
 .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-buh4{background-color:#f9f9f9;text-align:left;vertical-align:top}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-c3ow{background-color:#f9f9f9;border-color:inherit;text-align:center;vertical-align:middle}
 .tg .tg-btxf{background-color:#f9f9f9;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg"><thead>
  <tr>
- <th class="tg-0pky"></th>
+ <th class="tg-btxf"></th>
  <th class="tg-c3ow"><span style="font-weight:bold">Writing fellow conference</span></th>
- <th class="tg-baqh"><span style="font-weight:bold">Format</span></th>
+ <th class="tg-c3ow"><span style="font-weight:bold">Format</span></th>
  <th class="tg-c3ow"><span style="font-weight:bold">Due</span></th>
  </tr></thead>
 <tbody>
  <tr>
  <td class="tg-btxf"><span style="font-style:italic">Project proposal</span></td>
  <td class="tg-btxf">Prior to submission</td>
- <td class="tg-buh4">Single-spaced, 1 page </td>
+ <td class="tg-btxf">Single-spaced, 1 page </td>
  <td class="tg-btxf">Friday, March 13, by midnight, to CourseWorks</td>
  </tr>
  <tr>
- <td class="tg-0pky"><span style="font-style:italic">1st draft</span></td>
- <td class="tg-0pky">Post submission</td>
- <td class="tg-0lax">Double-spaced, could include bullet points/placeholders</td>
- <td class="tg-0pky">Friday, April 3, by midnight, to CourseWorks</td>
+ <td class="tg-btxf"><span style="font-style:italic">1st draft</span></td>
+ <td class="tg-btxf">Post submission</td>
+ <td class="tg-btxf">Double-spaced, could include bullet points/placeholders</td>
+ <td class="tg-btxf">Friday, April 3, by midnight, to CourseWorks</td>
  </tr>
  <tr>
- <td class="tg-buh4"><span style="font-style:italic">2nd draft</span></td>
- <td class="tg-buh4">Post submission</td>
- <td class="tg-buh4">Double-spaced, 9–12 pages</td>
- <td class="tg-buh4">Friday, April 17, by midnight, to CourseWorks</td>
+ <td class="tg-btxf"><span style="font-style:italic">2nd draft</span></td>
+ <td class="tg-btxf">Post submission</td>
+ <td class="tg-btxf">Double-spaced, 9–12 pages</td>
+ <td class="tg-btxf">Friday, April 17, by midnight, to CourseWorks</td>
  </tr>
  <tr>
- <td class="tg-0lax"><span style="font-style:italic">Final draft</span></td>
- <td class="tg-0lax">N/A<br></td>
- <td class="tg-0lax">Double-spaced, 9–12 pages + single-spaced, 1-page cover letter</td>
- <td class="tg-0lax">Wednesday, May 13, by midnight, to CourseWorks</td>
+ <td class="tg-btxf"><span style="font-style:italic">Final draft</span></td>
+ <td class="tg-btxf">N/A<br></td>
+ <td class="tg-btxf">Double-spaced, 9–12 pages + single-spaced, 1-page cover letter</td>
+ <td class="tg-btxf">Wednesday, May 13, by midnight, to CourseWorks</td>
  </tr>
 </tbody></table>
 
