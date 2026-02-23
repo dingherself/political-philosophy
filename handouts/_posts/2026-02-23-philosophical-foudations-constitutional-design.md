@@ -9,7 +9,6 @@ module: "The Making of Modern Political Philosophy"
 - Philosophical foundations of the American Revolution [30 min]
   - The social contract basis of the American republic
   - Slavery & the racial contract
-
 - Comparative constitutional design [45 min]
   - Victoria Woodhull
   - Sun Yet-Sen
@@ -46,12 +45,15 @@ Two interpretations:
 
 ### Woodhull’s congressional districts
 
-![../assets/woodhull-congressional-districts-small](../assets/woodhull-congressional-districts-small.png)
+<center>
+<img src="/assets/woodhull-congressional-districts-small.png" class="img-fluid" style="max-width: 475px;" alt="Diagram of Woodhull’s congressional districts">
+</center>
 
 ## Sun Yet-Sen’s constitution: Four powers of the people + five branches of government
 
-![../assets/five-powers-constitution](../assets/five-powers-constitution.jpg)
-{: .mb-5}
+<center>
+<img src="/assets/five-powers-constitution.jpg" class="img-fluid mb-5" style="max-width: 475px;" alt="Diagram of Sun Yet-Sen’s five-power constitution">
+</center>
 
 \* “Censor” (監察) is probably better rendered as “audit,” “inspect,” or “supervision.”
 
