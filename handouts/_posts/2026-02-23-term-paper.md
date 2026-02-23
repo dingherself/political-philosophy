@@ -11,6 +11,7 @@ The best papers will
 
 - focus on a single aspect of a question or problem that the student is genuinely interested in;
 - clearly state and vigorously defend an [arguable thesis](https://resources.dingherself.com/writing/thesis-statement.html);
+- be accessible to a typical undergraduate student who has not taken our class;
 - have an opinion and speak in the student’s own voice; and
 - go beyond our discussions in a way insightful to the rest of the class.
 
@@ -56,6 +57,7 @@ The best papers will
  <td class="tg-btxf">Wednesday, May 13, by midnight, to CourseWorks</td>
  </tr>
 </tbody></table>
+
 
 ## Revision
 
