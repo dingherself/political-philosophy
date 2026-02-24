@@ -5,7 +5,7 @@ module: "Assignments"
 tag: nodate
 ---
 
-**Assignment**: Drawing on our readings and at least two sources you’ve identified through your own research, please argue for/against a thesis in response to some question or problem relevant to the subject matter of this class. 
+**Assignment**: Drawing on our readings and at least two sources you’ve identified through your own research, please argue for/against a specific answer or solution in response to some question or problem relevant to the subject matter of this class. 
 
 The best papers will
 
