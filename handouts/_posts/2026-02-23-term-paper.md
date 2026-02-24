@@ -54,10 +54,11 @@ The best papers will
  <tr>
  <td class="tg-baqh"><span style="font-style:italic">Final draft</span></td>
  <td class="tg-0lax">N/A<br></td>
- <td class="tg-0lax">Double-spaced, 9–12 pages + single-spaced, 1-page cover letter</td>
+ <td class="tg-0lax">Double-spaced, 9–12 pages + single-spaced, 1-page cover letter addressed to me</td>
  <td class="tg-0lax">Wednesday, May 13, by midnight, to CourseWorks</td>
  </tr>
 </tbody></table>
+
 
 
 ## Revision
