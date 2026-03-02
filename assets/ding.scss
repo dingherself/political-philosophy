@@ -196,6 +196,12 @@ $alert-padding-x:  $spacer * .875;
   }
 }
 
+.alert {
+  // scss-docs-start alert-css-vars
+  --#{$prefix}alert-color: $body-color-dark;
+  --#{$prefix}alert-link-color: $body-color-dark;
+}
+
 nav[data-toggle="toc"] .nav .active .nav {
   display: none;
 }
