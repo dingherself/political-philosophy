@@ -194,6 +194,10 @@ $alert-padding-x:  $spacer * .875;
     --bs-btn-disabled-color: #{$dingdarkred};
     --bs-btn-disabled-border-color: #{$dingdarkred};
   }
+
+  * {
+    --bs-primary-rgb: var(--bs-link-color-rgb);
+  }
 }
 
 .alert {
